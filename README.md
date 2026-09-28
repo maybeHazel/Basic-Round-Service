@@ -1,2 +1,2 @@
-# Round-manager
-This is the first version of the round service. It's bad
+# Basic-Round-Service
+This is the much better and improved version of the round manager I made 8-9 months later. It still is very basic and simple but there are a bit more stuff like onRoundStart and end events, pause the round, and auto start and end the rounds. Also I'm trying to implement custom rounds where you can set a custom loadout order (like item aslyum does) and round presets stuff, but I'm having trouble coding these ideas. Any feedback is appreciated:).
